@@ -1,16 +1,13 @@
+
+WEBSITE DDOSER!! EMJOY :)
+
 Created By Nexx :))
 
 NexBin Website : Nexbin.org
 
-print("*   DISCLAIMER:          *")
-print("*   This tool is for     *")
-print("*   educational purposes *")
-print("*   only. Nexx is not    *")
-print("*   responsible for any  *")
-print("*   misuse of this tool. *")
-print("**************************")
-  
+Disclaimer: This tool is provided for educational purposes only. The creator of this tool is not responsible for any misuse or illegal activities performed with it.
 
+  
 NEXX IS NOT RESPONSIBLE
 
 !!RUN THE .BAT FIRST!!
